@@ -23,3 +23,38 @@ TripEase is a full-stack Java travel booking web application integrating **fligh
 1. Clone the repo
 ```bash
 git clone https://github.com/<your-username>/TripEase.git
+
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/Home.png)
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Flights
+![Flights](screenshots/flights.png)
+
+### Hotels
+![Hotels](screenshots/hotels.png)
+
+### Tours
+![Tours](screenshots/tours.png)
+
+### Restaurants
+![Restaurants](screenshots/restaurants.png)
+
+### Cabs
+![Cabs](screenshots/cabs.jsp.png)
+
+### My Booking
+![My Booking](screenshots/my-booking.png)
+
+### Profile
+![Profile](screenshots/profile.png)
+
+### Register
+![Register](screenshots/register.png)
