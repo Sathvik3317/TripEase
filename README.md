@@ -22,7 +22,7 @@ TripEase is a full-stack Java travel booking web application integrating **fligh
 ## ⚙️ How to Run Locally
 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/TripEase.git
+git clone https://github.com/Sathvik3317/TripEase.git
 
 ## 📸 Screenshots
 
